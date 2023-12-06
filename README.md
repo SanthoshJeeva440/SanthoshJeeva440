@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Santhosh G😎</h1>
-<h3 align="center">Software Development Engineer in Test (SDET)</h3>
-<h4 aligin="center">Passionate and skilled Web and Mobile Automation Tester with 2 years of experience in creating and executing automated test scripts for client/server Applications. Expertise in utilising tools such as Selenium Webdriver, Appium, TestNG, Cucumber, and the Robot Frame</h4>
+<h4 align="center">Software Development Engineer in Test (SDET)</h4>
+<h2 aligin="center">Passionate and skilled Web and Mobile Automation Tester with 2 years of experience in creating and executing automated test scripts for client/server Applications. Expertise in utilising tools such as Selenium Webdriver, Appium, TestNG, Cucumber, and the Robot Frame</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshjeeva440&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshjeeva440" /> </p>
 
