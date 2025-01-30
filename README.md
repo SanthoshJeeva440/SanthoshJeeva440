@@ -42,4 +42,8 @@ Category  | Technology
 Languages       |[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="java logo" /><img width="15" />]() [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45" alt="python logo"/><img width="15" />]() [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"/>]()
 Automation Tools  | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45" alt="java logo" /><img width="15" />]() [<img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" height="45" alt="python logo"/><img width="15" />]() [<img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" height="45" alt="csharp logo"/>]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshjeeva440&show_icons=true&locale=en" alt="santhoshjeeva440" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Santhoshjeeva440&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santhoshjeeva440&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
