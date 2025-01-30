@@ -35,7 +35,7 @@
 </a>
 </p>
 
-My Tech Stack
+<h3 align="left">My Tech Stack:</h3>
 
 Category  | Technology
 ----------------|----------
