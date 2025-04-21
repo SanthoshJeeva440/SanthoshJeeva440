@@ -37,10 +37,16 @@
 
 <h3 align="left">My Tech Stack:</h3>
 
-Category  | Technology
-----------------|----------
-Languages       |[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="java logo" /><img width="15" />]() [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45" alt="python logo"/><img width="15" />]() [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"/>]()
-Automation Tools  | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45" alt="java logo" /><img width="15" />]() [<img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" height="45" alt="python logo"/><img width="15" />]() [<img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" height="45" alt="csharp logo"/>]()
+| Category               | Technology |
+|------------------------|------------|
+| **Languages**           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" /> |
+| **Automation Tools**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45" alt="Selenium" /> <img src="https://appium.io/img/logo.svg" height="45" alt="Appium" /> <img src="https://winappdriver.com/img/Windows_logo.png" height="45" alt="WinAppDriver" /> <img src="https://playwright.dev/img/playwright-logo.svg" height="45" alt="Playwright" /> <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" height="45" alt="Cypress" /> |
+| **Frameworks**          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" alt="TestNG" title="TestNG" /> TestNG <img src="https://cdn.worldvectorlogo.com/logos/cucumber-1.svg" height="45" alt="Cucumber" /> <img src="https://robotframework.org/img/robot-framework-stacked.png" height="45" alt="Robot Framework" /> <img src="https://avatars.githubusercontent.com/u/29666617?s=200&v=4" height="45" alt="Pytest" /> |
+| **Build Tools**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" height="45" alt="Maven" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Pip" title="Pip" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="NPM" /> |
+| **CI/CD Tools**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub Actions" /> GitHub Actions <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="45" alt="GitLab CI" /> <img src="https://cdn.worldvectorlogo.com/logos/circleci.svg" height="45" alt="CircleCI" /> <img src="https://avatars.githubusercontent.com/u/48942249?s=200&v=4" height="45" alt="Buddy CI" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="45" alt="Bitbucket CI" /> |
+| **Databases**           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="Oracle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" /> |
+| **Project Management**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="45" alt="Jira" /> |
+
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Santhoshjeeva440&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
