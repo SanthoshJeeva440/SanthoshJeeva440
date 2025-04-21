@@ -35,25 +35,6 @@
 </a>
 </p>
 
-<h3 align="left">💻 My Tech Stack:</h3>
-
-| Category             | Technology |
-|---------------------|------------|
-| **Languages**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> |
-| **Automation Tools** | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" title="Selenium"/> 
-<img src="https://raw.githubusercontent.com/appium/appium/main/docs/assets/appium-logo-white.png" height="40" title="Appium"/>
-<img src="https://learn.microsoft.com/en-us/windows/images/icon-windows.svg" height="40" title="WinAppDriver"/>
-<img src="https://playwright.dev/img/playwright-logo.svg" height="40" title="Playwright"/>
-<img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-light.svg" height="40" title="Cypress"/>
-| **Frameworks**       | <img src="https://raw.githubusercontent.com/testng-team/testng/master/logo/testng-logo.png" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/cucumber-1.svg" height="40"/> <img src="https://robotframework.org/img/robot-framework-stacked.png" height="40"/> <img src="https://avatars.githubusercontent.com/u/29666617?s=200&v=4" height="40" title="pytest"/> |
-| **Build Tools**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="pip"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/> |
-| **CI/CD Tools**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub Actions"/> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="40" title="GitLab CI"/> <img src="https://cdn.worldvectorlogo.com/logos/circleci.svg" height="40" title="CircleCI"/> <img src="https://avatars.githubusercontent.com/u/48942249?s=200&v=4" height="40" title="Buddy CI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" title="Bitbucket CI"/> |
-| **Databases**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/> |
-| **Project Management** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40"/> |
-
-
-
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Santhoshjeeva440&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
