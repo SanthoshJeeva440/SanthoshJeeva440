@@ -66,16 +66,24 @@ src="https://testsigma.com/blog/wp-content/uploads/Must-Have-Skills-For-an-Autom
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshjeeva440&show_icons=true&theme=dracula&hide_border=true"
-       height="150" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=santhoshjeeva440&show_icons=true&theme=dracula&hide_border=true"
+    height="150"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshjeeva440&layout=compact&langs_count=5&theme=dracula&hide_border=true&cache_seconds=1800"
-       height="150" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santhoshjeeva440&layout=compact&langs_count=5&theme=dracula&hide_border=true"
+    height="150"
+  />
 </div>
+
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=santhoshjeeva440&theme=dracula&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshjeeva440&theme=dracula&hide_border=true"
+  />
 </p>
+
