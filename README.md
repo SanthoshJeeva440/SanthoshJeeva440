@@ -65,14 +65,19 @@ src="https://testsigma.com/blog/wp-content/uploads/Must-Have-Skills-For-an-Autom
 ---
 
 ### 📊 GitHub Stats
-<div align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=santhoshjeeva440&show_icons=true&theme=dracula&hide_border=true"
-    height="150"
-  />
-
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santhoshjeeva440&layout=compact&langs_count=5&theme=dracula&hide_border=true"
-    height="150"
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=santhoshjeeva440&show_icons=true&theme=dracula&hide_border=true"
+        height="190"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santhoshjeeva440&layout=compact&langs_count=5&theme=dracula&hide_border=true"
+        height="190"
+      />
+    </td>
+  </tr>
+</table>
