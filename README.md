@@ -83,7 +83,7 @@ src="https://testsigma.com/blog/wp-content/uploads/Must-Have-Skills-For-an-Autom
 ### 🔥 GitHub Streak
 <p align="left">
   <img
-    src="https://streak-stats.demolab.com/?user=santhoshjeeva440&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Santhoshjeeva440&theme=dracula&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
