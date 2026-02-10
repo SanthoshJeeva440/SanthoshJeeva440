@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Santhosh G 😎</h1>
 <h2 align="center">Software Development Engineer in Test (SDET)</h2>
 <h4 align="center">
-Passionate and skilled Web and Mobile Automation Tester with 3+ years of experience
+Passionate and skilled Web and Mobile Automation Tester with 4 years of experience
 in creating and executing automated test scripts for client/server applications.
 </h4>
 
