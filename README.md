@@ -23,7 +23,7 @@ src="https://testsigma.com/blog/wp-content/uploads/Must-Have-Skills-For-an-Autom
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working at **Calibraint Technologies**
+- 🔭 Currently working at **INDIUM Software Pvt Ltd**
 - 🌱 Learning **PyTest, Playwright, TestCafe**
 - 📫 Reach me at **santhoshjeeva440@gmail.com**
 
