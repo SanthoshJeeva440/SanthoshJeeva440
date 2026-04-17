@@ -66,11 +66,6 @@ src="https://testsigma.com/blog/wp-content/uploads/Must-Have-Skills-For-an-Autom
     </td>
   </tr>
 </table>
-
 <p>
   <img src="https://streak-stats.demolab.com?user=santhoshjeeva440&theme=dracula&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshjeeva440&theme=dracula&hide_border=true" />
 </p>
