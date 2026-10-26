@@ -54,32 +54,23 @@ src="https://testsigma.com/blog/wp-content/uploads/Must-Have-Skills-For-an-Autom
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <table align="center">
+  <!-- Top Row -->
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=santhoshjeeva440&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"
-        height="180"
-        alt="GitHub Stats"
-      />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=santhoshjeeva440&show_icons=true&theme=dracula&hide_border=true" height="180"/>
     </td>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshjeeva440&layout=compact&theme=dracula&hide_border=true"
-        height="180"
-        alt="Top Languages"
-      />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santhoshjeeva440&layout=compact&theme=dracula&hide_border=true" height="180"/>
     </td>
   </tr>
+
+  <!-- Bottom Center -->
   <tr>
     <td colspan="2" align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=santhoshjeeva440&theme=dracula&hide_border=true"
-        alt="GitHub Contribution Streak"
-      />
+      <img src="https://streak-stats.demolab.com?user=santhoshjeeva440&theme=dracula&hide_border=true" />
     </td>
   </tr>
 </table>
