@@ -55,31 +55,37 @@ src="https://testsigma.com/blog/wp-content/uploads/Must-Have-Skills-For-an-Autom
 ---
 
 
+
+
+
 ### 📊 GitHub Stats
 
 <table align="center">
   <tr>
-    <td>
+    <td width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=santhoshjeeva440&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"
-        height="180"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhoshjeeva440&theme=dracula"
         alt="GitHub Stats"
+        width="100%"
       />
     </td>
-    <td>
+    <td width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshjeeva440&layout=compact&theme=dracula&hide_border=true"
-        height="180"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhoshjeeva440&theme=dracula"
         alt="Top Languages"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=santhoshjeeva440&theme=dracula&hide_border=true"
-        alt="GitHub Contribution Streak"
+        width="100%"
       />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=santhoshjeeva440&theme=dracula&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
+
+
+
